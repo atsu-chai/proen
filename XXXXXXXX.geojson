@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "134.3612004°",
+          "33.9743512°"
+        ]
+      },
+      "properties": {
+        "id": "01",
+        "date": "6/15",
+        "diameter": "242cm",
+        "depth": "-",
+        "turbidity": 5.0,
+        "traffic": "170/h",
+        "hand_wash": "無",
+        "weather": "曇り・雨 / 40%",
+        "review": "アメンボがたくさんいました。",
+        "note": "-"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "id": NaN,
+        "date": "6/24",
+        "diameter": "225cm",
+        "depth": "-",
+        "turbidity": 7.0,
+        "traffic": "0/h",
+        "hand_wash": "無",
+        "weather": NaN,
+        "review": NaN,
+        "note": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "id": NaN,
+        "date": NaN,
+        "diameter": NaN,
+        "depth": NaN,
+        "turbidity": NaN,
+        "traffic": NaN,
+        "hand_wash": NaN,
+        "weather": NaN,
+        "review": NaN,
+        "note": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "id": "目標件数5件！！",
+        "date": NaN,
+        "diameter": NaN,
+        "depth": NaN,
+        "turbidity": NaN,
+        "traffic": NaN,
+        "hand_wash": NaN,
+        "weather": NaN,
+        "review": NaN,
+        "note": NaN
+      }
+    }
+  ]
+}
