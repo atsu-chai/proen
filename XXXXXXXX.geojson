@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3612004,
+          33.9743512
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "date": "6/15",
+        "diameter": 242,
+        "depth": "3cm",
+        "turbidity": "5",
+        "traffic": "170/h",
+        "hand_wash": 0,
+        "weather": "曇り・雨",
+        "review": "アメンボがたくさんいました。",
+        "note": "-"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.36023,
+          33.973965
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "date": "6/24",
+        "diameter": 225,
+        "depth": "3cm",
+        "turbidity": "7",
+        "traffic": "0/h",
+        "hand_wash": 0,
+        "weather": "-",
+        "review": "-",
+        "note": "-"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.36125,
+          33.97439
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "date": "6/23",
+        "diameter": 200,
+        "depth": "-",
+        "turbidity": "-",
+        "traffic": "-",
+        "hand_wash": 0,
+        "weather": "-",
+        "review": "-",
+        "note": "-"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.2147,
+          33.58228
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "date": "6/24",
+        "diameter": 100,
+        "depth": "3",
+        "turbidity": "4",
+        "traffic": "0",
+        "hand_wash": 1,
+        "weather": "曇り",
+        "review": "-",
+        "note": "-"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.361342,
+          33.974274
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "date": "6/23",
+        "diameter": 550,
+        "depth": "3cm",
+        "turbidity": "5",
+        "traffic": "170/h",
+        "hand_wash": 0,
+        "weather": "曇り",
+        "review": "-",
+        "note": "-"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.361888,
+          33.973843
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "date": "6/23",
+        "diameter": 157,
+        "depth": "5cm",
+        "turbidity": "7",
+        "traffic": "170/h",
+        "hand_wash": 0,
+        "weather": "曇り",
+        "review": "-",
+        "note": "-"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.362272,
+          33.972839
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "date": "6/23",
+        "diameter": 39,
+        "depth": "3cm",
+        "turbidity": "4",
+        "traffic": "-",
+        "hand_wash": 1,
+        "weather": "曇り",
+        "review": "-",
+        "note": "-"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.360213,
+          33.97391
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "date": "6/24",
+        "diameter": 422,
+        "depth": "3cm",
+        "turbidity": "5",
+        "traffic": "-",
+        "hand_wash": 1,
+        "weather": "雨",
+        "review": "-",
+        "note": "-"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.36125,
+          33.97439
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "date": "6/23",
+        "diameter": 100,
+        "depth": "1",
+        "turbidity": "5",
+        "traffic": "-",
+        "hand_wash": 0,
+        "weather": "曇り",
+        "review": "-",
+        "note": "-"
+      }
+    }
+  ]
+}
